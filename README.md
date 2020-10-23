@@ -19,6 +19,10 @@ or
   * OSx/Linux `python3 narrow_valley.py` 
   * Windows `py .\narrow_valley.py`
 
+Preview:
+
+![art](https://github.com/briansegs/narrow-valley/blob/main/preview-art.JPG?raw=true)
+
 #References
 
 * [For Ascii text art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
