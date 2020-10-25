@@ -13,7 +13,7 @@ Click the link here: [Narrow Valley Game](https://briansegs.github.io/narrow-val
 
 or
 
--Make sure your editor is in fullscreen mode.
+Make sure your editor is in fullscreen mode.
 1. Clone the repo: `git clone https://github.com/briansegs/narrow-valley.git`
 2. Run: 
   * OSx/Linux `python3 narrow_valley.py` 
